@@ -1,4 +1,4 @@
-# AdptvEd
+
 # AdptvEd-AI-Adaptive-Learning-Platform
 
 ## 🚀 Features
