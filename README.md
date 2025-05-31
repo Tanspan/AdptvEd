@@ -1,4 +1,3 @@
-
 # AdptvEd-AI-Adaptive-Learning-Platform
 
 ## 🚀 Features
@@ -24,4 +23,4 @@
   - Adaptive logic based on performance and emotion.
 
 ---
-
+https://github.com/user-attachments/assets/1d852423-1c84-4062-a950-686c3bd9963f
